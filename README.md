@@ -1,7 +1,7 @@
 # Hola mi Nombre es Miguel Abache 👋
 ___
 
-##Freelance full-stack iOS & Android engineer
+##  Full-stack MEVN
 
 
 
