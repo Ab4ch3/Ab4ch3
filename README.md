@@ -1,12 +1,12 @@
 # Hola mi Nombre es Miguel Abache 👋
 
-##  Full-stack MEVN
+##  Full-stack Dev
 
 Soy ingeniero de software profesional desde hace 5 años.
 
 Mi sueño de crecer como profesional dentro de la industria del desarrollo de software y poder vivir de lo que me apasiona. 
 
-## Tecnologías con las cuales puedo trabajar y espero poder agregar muchas mas 👀 :
+## Tecnologías:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ Mi sueño de crecer como profesional dentro de la industria del desarrollo de so
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+vendran muchas mas....
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
