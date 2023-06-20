@@ -44,27 +44,10 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 more upcomings....
 
 ## Positions:
-<table>
-    <thead>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4 align="center">R1</td>
-            <td rowspan=2 align="center">R2 Text A</td>
-            <td align="center">R3 Text A</td>
-        </tr>
-        <tr>
-            <td align="center">R3 Text B</td>
-        </tr>
-        <tr>
-            <td rowspan=2 align="center">R2 Text B</td>
-            <td align="center">R3 Text C</td>
-        </tr>
-        <tr>
-            <td align="center">R3 Text D</td>
-        </tr>
-    </tbody>
-</table>
+<form>
+  <label for="q">Buscar:</label>
+  <input type="search" name="q" id="q">
+</form>
 
 
 
