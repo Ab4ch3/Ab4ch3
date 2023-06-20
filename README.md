@@ -6,6 +6,8 @@ I am a software developer with 5 years of experience.
 
 My dream is to grow as a professional in the software development industry and to be able to make a living from what I am passionate about.
 
+I am learning and diving into the web 3 for my own interest, broadening the horizon, open to freelancing. 
+
 
 
 ## Tecnologías:
