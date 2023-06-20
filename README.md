@@ -46,15 +46,19 @@ more upcomings....
 ## Positions:
 [![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)
 
-<div class="container text-center">
-  <div class="row align-items-start">
-    <div class="col">
+One of three columns
+One of three columns
+One of three columns
+Copy
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
       One of three columns
     </div>
-    <div class="col">
+    <div class="col-sm">
       One of three columns
     </div>
-    <div class="col">
+    <div class="col-sm">
       One of three columns
     </div>
   </div>
