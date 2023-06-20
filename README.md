@@ -44,7 +44,8 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 more upcomings....
 
 ## Positions:
-
+| a | b | c |
+| - | - | - |
 
 
 ---
