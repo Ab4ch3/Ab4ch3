@@ -86,10 +86,17 @@ more upcomings....
       <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
       <img alt="Static Badge" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB">
-      <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"> </br>
+       </br>
       <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white">
-      <img alt="Static Badge" src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"> 
+      </br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101">
+      <img alt="Static Badge" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=blacke">
+      <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
+      
     </td>
   </tr>
   <tr>
