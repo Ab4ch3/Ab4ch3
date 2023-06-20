@@ -53,8 +53,8 @@ more upcomings....
 
 | a | b | c |
 | - | - | - |
-|[![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)| Digilink C.A | c |
-
+|[![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)| Junior Software Developer  </br> Digilink C.A  abr. 2020 - present | c |
+| - | - | - |
 
 
 ---
