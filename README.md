@@ -74,18 +74,6 @@ more upcomings....
 </tbody>
 </table>
 ----
-
-| Dependencies          | Dev Dependencies       |
-| --------------------- | ---------------------- |
-| `django`              | `black`                |
-| `django-redis`        | `bpython`              |
-| `djangorestframework` | `django-debug-toolbar` |
-| `pendulum`            | `factory_boy`          |
-| `psycopg2-binary`     | `flake8`               |
-| `redis`               | `flake8-mypy`          |
-|                       | `mypy`                 |
-|                       | `pytest`               |
-|                       | `pytest-watch`         |
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
