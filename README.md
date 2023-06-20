@@ -1,6 +1,6 @@
-# My Name Miguel Abache 👋
+# Hi my name is Miguel Abache 👋
 ##  Full-stack Dev
-### About
+### About me
 
 Soy ingeniero de software profesional desde hace 5 años.
 
