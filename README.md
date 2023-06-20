@@ -12,9 +12,7 @@ Mi sueño de crecer como profesional dentro de la industria del desarrollo de so
 </br>
 [![vuejs](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=101010)]()
 [![laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-
 </br>
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![microsoft_sqlserver](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
 
