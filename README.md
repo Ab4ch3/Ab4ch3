@@ -73,6 +73,7 @@ more upcomings....
       <img alt="Static Badge" src="https://img.shields.io/badge/Assertive_communication-green">
       <img alt="Static Badge" src="https://img.shields.io/badge/TeamWork-green">
       <img alt="Static Badge" src="https://img.shields.io/badge/Competitive-red">
+      </br>
       <img alt="Static Badge" src="https://img.shields.io/badge/Problem_solving-blue">
       <img alt="Static Badge" src="https://img.shields.io/badge/Asset_Management-blue">
       <img alt="Static Badge" src="https://img.shields.io/badge/Fast_learning-blue">
