@@ -17,7 +17,7 @@ Mi sueño de crecer como profesional dentro de la industria del desarrollo de so
 ****
 
 
-[![vuejs](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=101010)]()
+[![vuejs](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/html-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
