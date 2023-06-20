@@ -68,9 +68,13 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11">Atitudes: </br>
-<!--       <img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue"> -->
-      <img alt="Static Badge" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=plastic&logo=amazon%20alexa&logoColor=white">
+    <td colspan="11">Skills: </br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Assertive_communication-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/TeamWork-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Competitive-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Problem_solving-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Asset_Management-blue">
+<!--       <img alt="Static Badge" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=plastic&logo=amazon%20alexa&logoColor=white"> -->
     </td>
   </tr>
   <tr>
