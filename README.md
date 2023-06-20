@@ -4,7 +4,7 @@
 
 Soy ingeniero de software profesional desde hace 5 años.
 
-Mi sueño de crecer como profesional dentro de la industria del desarrollo de software. 
+Mi sueño de crecer como profesional dentro de la industria del desarrollo de software y poder vivir de lo que me apasiona. 
 
 ## Tecnologías:
 
