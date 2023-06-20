@@ -7,7 +7,7 @@ Soy ingeniero de software profesional desde hace 5 años.
 Mi sueño de crecer como profesional dentro de la industria del desarrollo de software y poder vivir de lo que me apasiona. 
 
 ## Tecnologías:
-[![Html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
