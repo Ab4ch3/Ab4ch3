@@ -46,7 +46,15 @@ more upcomings....
 ## Positions:
 
 | [![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)  | Junior Software Developer  | h |
-
+<div id="body" style="display:flex" align="center">
+    <div>
+      1
+    </div>
+     <div>
+      2
+    </div>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
