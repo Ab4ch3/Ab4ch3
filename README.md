@@ -80,7 +80,15 @@ more upcomings....
   <tr>
     <td colspan="11">Stack:  </br>
       <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
-      <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
+      <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
+      <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+      
+  
     </td>
   </tr>
   <tr>
