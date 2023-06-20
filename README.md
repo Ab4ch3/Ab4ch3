@@ -63,7 +63,9 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11"></td>
+    <td colspan="11">Atitudes: </br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue">
+    </td>
   </tr>
   <tr>
     <td colspan="11"></td>
