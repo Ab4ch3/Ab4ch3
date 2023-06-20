@@ -96,7 +96,6 @@ more upcomings....
       <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=blacke">
       <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
-      
     </td>
   </tr>
   <tr>
