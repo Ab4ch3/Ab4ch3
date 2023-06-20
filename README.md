@@ -46,12 +46,17 @@ more upcomings....
 ## Positions:
 [![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)
 
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
-    <h1>Hola Mundo</h1>
-  </div>
-   <div class="col-md-6 col-md-offset-3">
-    <h1>Hola Mundo2</h1>
+<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
+    <div class="col">
+      One of three columns
+    </div>
   </div>
 </div>
 <!---
