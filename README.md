@@ -2,9 +2,11 @@
 ##  Full-stack Dev
 ##### About me
 
-Soy ingeniero de software profesional desde hace 5 años.
+I am a software developer with 5 years of experience.
 
-Mi sueño de crecer como profesional dentro de la industria del desarrollo de software y poder vivir de lo que me apasiona. 
+My dream is to grow as a professional in the software development industry and to be able to make a living from what I am passionate about.
+
+
 
 ## Tecnologías:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
