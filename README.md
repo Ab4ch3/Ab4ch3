@@ -43,6 +43,11 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 </br>
 more upcomings....
 
+👩‍💻 Currently learning:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+
 ## Positions:
 <table style="border-style: solid;">
 <tbody >
