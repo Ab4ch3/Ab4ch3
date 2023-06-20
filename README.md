@@ -44,10 +44,48 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 more upcomings....
 
 ## Positions:
+<table style="border-style: solid;">
+<tbody >
+  <tr>
+    <td  style="border-style: solid;" colspan="6" rowspan="6"> <img src="https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png" alt="buliding"></td>
+    <td  style="border-style: solid;" colspan="11">
+        Junior Software Developer
+    </td>
+  </tr>
+  <tr>
+    <td  style="border-style: solid;" colspan="11">
+        Digilink C.A - Abr. 2020 - Present 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="11">
+        Venezuela · At Office
+    </td>
+  </tr>
+  <tr>
+    <td colspan="11"></td>
+  </tr>
+  <tr>
+    <td colspan="11"></td>
+  </tr>
+  <tr>
+    <td colspan="11"></td>
+  </tr>
+</tbody>
+</table>
+----
 
-| [![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)  | Junior Software Developer  | h |
-
-
+| Dependencies          | Dev Dependencies       |
+| --------------------- | ---------------------- |
+| `django`              | `black`                |
+| `django-redis`        | `bpython`              |
+| `djangorestframework` | `django-debug-toolbar` |
+| `pendulum`            | `factory_boy`          |
+| `psycopg2-binary`     | `flake8`               |
+| `redis`               | `flake8-mypy`          |
+|                       | `mypy`                 |
+|                       | `pytest`               |
+|                       | `pytest-watch`         |
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
