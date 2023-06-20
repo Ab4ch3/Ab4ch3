@@ -44,6 +44,35 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 more upcomings....
 
 ## Positions:
+<table>
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4 align="center">R1 Text</td>
+            <td rowspan=2 align="center">R2 Text A</td>
+            <td align="center">R3 Text A</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text B</td>
+        </tr>
+        <tr>
+            <td rowspan=2 align="center">R2 Text B</td>
+            <td align="center">R3 Text C</td>
+        </tr>
+        <tr>
+            <td align="center">R3 Text D</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 [![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)  Junior Software Developer
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
