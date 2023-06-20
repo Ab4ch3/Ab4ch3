@@ -43,7 +43,7 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 </br>
 more upcomings....
 
-👩‍💻 Currently learning:
+## 👩‍💻 Currently learning:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
@@ -69,7 +69,8 @@ more upcomings....
   </tr>
   <tr>
     <td colspan="11">Atitudes: </br>
-      <img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue">
+<!--       <img alt="Static Badge" src="https://img.shields.io/badge/any_text-you_like-blue"> -->
+      <img alt="Static Badge" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=plastic&logo=amazon%20alexa&logoColor=white">
     </td>
   </tr>
   <tr>
