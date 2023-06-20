@@ -44,7 +44,7 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 more upcomings....
 
 ## Positions:
-![this is JavaScript](https://ibb.co/n7rxQJ1)
+!(https://ibb.co/n7rxQJ1)
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
