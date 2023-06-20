@@ -44,7 +44,7 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 more upcomings....
 
 ## Positions:
-[![buildings-regular-96-1.png](https://i.postimg.cc/rFJFW8zk/buildings-regular-96-1.png)](https://postimg.cc/vc4swwWq)
+[![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
