@@ -6,7 +6,8 @@ ___
 Soy ingeniero de software profesional desde hace 5 años.
 
 Mi sueño de crecer como profesional dentro de la industria del desarrollo de software. 
-
+___
+## Tecnologías:
 
 
 
