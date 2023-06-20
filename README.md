@@ -49,7 +49,10 @@ more upcomings....
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4 align="center">R1 Text</td>
+            <td rowspan=4 align="center">
+[![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)  Junior Software Developer
+                
+            </td>
             <td rowspan=2 align="center">R2 Text A</td>
             <td align="center">R3 Text A</td>
         </tr>
@@ -68,7 +71,6 @@ more upcomings....
 
 
 
-[![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)  Junior Software Developer
 <!---
 Ab4ch3/Ab4ch3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
