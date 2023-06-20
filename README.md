@@ -49,10 +49,7 @@ more upcomings....
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4 align="center">
-[![buildings-solid-96-1.png](https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png)](https://postimg.cc/0rHTfXLp)  Junior Software Developer
-                
-            </td>
+            <td rowspan=4 align="center">R1</td>
             <td rowspan=2 align="center">R2 Text A</td>
             <td align="center">R3 Text A</td>
         </tr>
