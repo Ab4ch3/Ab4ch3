@@ -74,11 +74,16 @@ more upcomings....
       <img alt="Static Badge" src="https://img.shields.io/badge/Competitive-red">
       <img alt="Static Badge" src="https://img.shields.io/badge/Problem_solving-blue">
       <img alt="Static Badge" src="https://img.shields.io/badge/Asset_Management-blue">
-<!--       <img alt="Static Badge" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=plastic&logo=amazon%20alexa&logoColor=white"> -->
     </td>
   </tr>
   <tr>
-    <td colspan="11"></td>
+    <td colspan="11">Stack:  </br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=plastic&logo=amazon%20alexa&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
+      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+    
+    </td>
   </tr>
   <tr>
     <td colspan="11"></td>
