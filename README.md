@@ -111,6 +111,7 @@ more upcomings....
                 <li>Generar vistas y Store Procedure para algunos procesos Mysql</li>
                 <li>API-Rest para distintos modulos del sistema.</li> 
                 <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li>
+                <li>Implementación de interacciones del usuario y animacionesde la interfaz para mejorar la experiencia del usuario.</li>
                 <li>Mantenimiento del código y resolución de errores,asegurando un funcionamiento sin problemas.</li>
               </ul>
             </p>
@@ -120,6 +121,7 @@ more upcomings....
               <ul>
                 <li>Culminar y trabajar modulos que faltan en la parte de Back-end </li> 
                 <li>Culminar y trabajar modulos que Front-end</li> 
+                <li>Implementación de validaciones en JavaScript para formularios, mejorando la calidad de los datos y reduciendo el riesgo de errores.</li> 
                 <li>Resolver bugs de funcionamientos y anadir cambios para un mejor funcionamiento de las operaciones que se tenian que realizar</li>
                 <li>Crear interfaz de manejo de rutas en router mikrotik , para cambiar de ISP a distintos departamentos y equipos</li>
               </ul>
