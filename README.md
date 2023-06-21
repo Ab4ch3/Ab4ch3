@@ -101,7 +101,7 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11">
+    <td colspan="11"> Proyectos Trabajados: </br
       <ul>
         <li>Proyecto DigInventario</li>
             <p>
@@ -114,7 +114,15 @@ more upcomings....
                 <li>Implementación de interacciones del usuario y animacionesde la interfaz para mejorar la experiencia del usuario.</li>
                 <li>Mantenimiento del código y resolución de errores,asegurando un funcionamiento sin problemas.</li>
               </ul>
-            </p>
+              <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+              <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
+              <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+              <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
+              <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+              <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
+          </p>
+      </ul>
+      </br>
         <li>Proyecto RouteManager</li>
               <p>
               En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollaro las funcionalidades que hacian falta para poder tener un                    herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la                manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales                         responsabilidades incluyeron:
