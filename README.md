@@ -101,7 +101,13 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11"></td>
+    <td colspan="11">
+      <ul>
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento N</li>
+      </ul>
+    </td>
   </tr>
 </tbody>
 </table>
