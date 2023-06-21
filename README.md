@@ -101,18 +101,19 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11"> Proyectos Trabajados: </br>
+    <td colspan="11"> Projects Worked: </br>
       <ul>
         <li>Proyecto DigInventario</li>
             <p>
-              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y Administrador de Bases de datos Mysql, tambien pude participar en todas las fases del proceso de desarrollo de la                      aplicación web, Este proyecto fue creado con la finalidad de llevar un orden y el inventario exacto de todos los articulos usados en la empresa, y al igual de las futuras compras que se realizaran para ser               ingresadas de una mejor manera al inventario, Algunas de mis principales responsabilidades incluyeron:
+              In this project I had the opportunity to work as a full-stack web developer and Mysql Database Administrator, I was also able to participate in all phases of the development process of the web application, This project was created in order to keep an order and accurate inventory of all items used in the company, as well as future purchases to be made to be entered in a better way to the inventory, Some of my main responsibilities included:
               <ul>
-                <li>Análisis, diseño e implementación de un sistema de base dedatos, asegurando la eficiencia y seguridad delalmacenamiento de los datos. </li>
-                <li>Generar vistas y Store Procedure para algunos procesos Mysql</li>
-                <li>API-Rest para distintos modulos del sistema.</li> 
-                <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li>
-                <li>Implementación de interacciones del usuario y animacionesde la interfaz para mejorar la experiencia del usuario.</li>
-                <li>Mantenimiento del código y resolución de errores,asegurando un funcionamiento sin problemas.</li>
+                <li>Analysis, design and implementation of a database system, ensuring the efficiency and security of data storage. </li>
+                <li>Generate views and Store Procedure for some Mysql processes.</li>
+                <li>API-Rest for different modules of the system. 
+.</li> 
+                <li>Create device management interface, where all the basic functions of an inventory would be done. </li>
+                <li>Implementation of user interactions and interface animations to improve user experience.</li>
+                <li>Code maintenance and bug fixing, ensuring a smooth operation..</li>
               </ul>
                 </br>
                 <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
