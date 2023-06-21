@@ -103,8 +103,10 @@ more upcomings....
   <tr>
     <td colspan="11">
       <ul>
-        <li style="list-style-type: square;" >Proyecto Diginventario</li>
-            <p>asdasdasd</p>
+        <li>Proyecto Diginventario</li>
+            <p>
+              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y participar en todas las                fases del proceso de desarrollo de la aplicación.
+            </p>
         <li>Elemento 2</li>
         <li>Elemento N</li>
       </ul>
