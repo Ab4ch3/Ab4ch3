@@ -125,7 +125,7 @@ more upcomings....
       </br>
         <li>Proyecto RouteManager</li>
               <p>
-              En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollaro las funcionalidades que hacian falta para poder tener un                    herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la                manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales                         responsabilidades incluyeron:
+              En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollaron las funcionalidades que faltaban para poder tener una                    herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la                manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales                         responsabilidades incluyeron:
               <ul>
                 <li>Culminar y trabajar modulos que faltan en la parte de Back-end </li> 
                 <li>Culminar y trabajar modulos que Front-end</li> 
@@ -133,6 +133,13 @@ more upcomings....
                 <li>Resolver bugs de funcionamientos y anadir cambios para un mejor funcionamiento de las operaciones que se tenian que realizar</li>
                 <li>Crear interfaz de manejo de rutas en router mikrotik , para cambiar de ISP a distintos departamentos y equipos</li>
               </ul>
+                  </br>
+                 <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
+                <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
+                <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
             </p>
       </ul>
     </td>
