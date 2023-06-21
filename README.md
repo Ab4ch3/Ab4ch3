@@ -105,7 +105,7 @@ more upcomings....
       <ul>
         <li>Proyecto DigInventario</li>
             <p>
-              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y Administrador de Bases de datos Mysql, tambien pude participar en todas las fases del proceso de desarrollo de la aplicación web, Este proyecto fue creado con la finalidad de                 llevar un orden y el inventario exacto de todos los articulos usados en la empresa, y al igual de las futuras compras que se realizaran para ser ingresadas de una mejor manera al inventario, Algunas de mis                        principales responsabilidades incluyeron:
+              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y Administrador de Bases de datos Mysql, tambien pude participar en todas las fases del proceso de desarrollo de la                      aplicación web, Este proyecto fue creado con la finalidad de llevar un orden y el inventario exacto de todos los articulos usados en la empresa, y al igual de las futuras compras que se realizaran para ser               ingresadas de una mejor manera al inventario, Algunas de mis principales responsabilidades incluyeron:
               <ul>
                 <li>Análisis, diseño e implementación de un sistema de base dedatos, asegurando la eficiencia y seguridad delalmacenamiento de los datos. </li>
                 <li>Generar vistas y Store Procedure para algunos procesos Mysql</li>
@@ -114,14 +114,14 @@ more upcomings....
                 <li>Implementación de interacciones del usuario y animacionesde la interfaz para mejorar la experiencia del usuario.</li>
                 <li>Mantenimiento del código y resolución de errores,asegurando un funcionamiento sin problemas.</li>
               </ul>
-              <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
-              <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
-              <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
-              <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
-              <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
-              <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
-          </p>
-      </ul>
+                </br>
+                <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
+                <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
+                <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
+            </p>
       </br>
         <li>Proyecto RouteManager</li>
               <p>
