@@ -105,7 +105,10 @@ more upcomings....
       <ul>
         <li>Proyecto Diginventario</li>
             <p>
-              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y participar en todas las                fases del proceso de desarrollo de la aplicación.
+              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y participar en todas las fases del proceso de desarrollo de la aplicación, Algunas de mis principales responsabilidades incluyeron:
+              <ol>
+                <li>Diseno y creacion de bases de datos en Mysql </li>
+              </ol>
             </p>
         <li>Elemento 2</li>
         <li>Elemento N</li>
