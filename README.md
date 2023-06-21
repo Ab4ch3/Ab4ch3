@@ -50,16 +50,16 @@ more upcomings....
 
 
 ## 📊 Positions:
-<table style="border-style: solid;">
+<table style="border-style: hidden;">
 <tbody >
   <tr>
-    <td  style="border-style: solid;" colspan="6" rowspan="6"> <img src="https://i.postimg.cc/CLdjnyR5/digilink.jpg" alt="buliding"></td>
-    <td  style="border-style: solid;" colspan="11">
+    <td  style="border-style: hidden;" colspan="6" rowspan="6"> <img src="https://i.postimg.cc/CLdjnyR5/digilink.jpg" alt="buliding"></td>
+    <td  style="border-style: hidden;" colspan="11">
         Software Developer
     </td>
   </tr>
   <tr>
-    <td  style="border-style: solid;" colspan="11">
+    <td  style="border-style: hidden;" colspan="11">
         Digilink C.A - Abr. 2020 - Present 
     </td>
   </tr>
@@ -80,7 +80,7 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11">Stack:  </br>
+    <td colspan="11">Stack: </br>
       <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
       <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white">
