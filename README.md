@@ -53,7 +53,7 @@ more upcomings....
 <table style="border-style: solid;">
 <tbody >
   <tr>
-    <td  style="border-style: solid;" colspan="6" rowspan="6"> <img src="https://i.postimg.cc/ZKTJJ1HD/buildings-solid-96-1.png" alt="buliding"></td>
+    <td  style="border-style: solid;" colspan="6" rowspan="6"> <img src="https://i.postimg.cc/CLdjnyR5/digilink.jpg" alt="buliding"></td>
     <td  style="border-style: solid;" colspan="11">
         Software Developer
     </td>
