@@ -101,7 +101,7 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11"> Proyectos Trabajados: </br
+    <td colspan="11"> Proyectos Trabajados: </br>
       <ul>
         <li>Proyecto DigInventario</li>
             <p>
