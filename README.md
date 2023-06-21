@@ -103,7 +103,7 @@ more upcomings....
   <tr>
     <td colspan="11">
       <ul>
-        <li>Proyecto Diginventario</li>
+        <li>Proyecto Inventario</li>
             <p>
               En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y participar en todas las fases del proceso de desarrollo de la aplicación, Este proyecto fue creado con la finalidad de                 llevar un orden y el inventario exacto de todos los articulos usados en la empresa, y de las futuras compras que se realizaran para ser ingresadas de una mejor manera al inventario, Algunas de mis                        principales responsabilidades incluyeron:
               <ul>
@@ -114,7 +114,17 @@ more upcomings....
                 <li>Administracion de la base de datos y de mantener la ingregridad de la data introducida </li>
               </ul>
             </p>
-        <li>Elemento 2</li>
+        <li>Proyecto RouteManager</li>
+              <p>
+              En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollarom las funcionalidades que hacian falta para poder tener un herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales responsabilidades incluyeron:
+              <ul>
+                <li>Diseno y estructuracion de base de datos en Mysql </li>
+                <li>Generar vistas y StoreProcedure para algunos procesos Mysql</li>
+                <li>Generar End-points para distintos modulos del sistema y la verificar que estuvieran operativos y testeado.</li> 
+                <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li>
+                <li>Administracion de la base de datos y de mantener la ingregridad de la data introducida </li>
+              </ul>
+            </p>
         <li>Elemento N</li>
       </ul>
     </td>
