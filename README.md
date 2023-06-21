@@ -50,10 +50,10 @@ more upcomings....
 
 
 ## 📊 Positions:
-<table style="border-style: hidden;">
+<table>
 <tbody >
   <tr>
-    <td  style="border-style: hidden;" colspan="6" rowspan="6"> <img src="https://i.postimg.cc/CLdjnyR5/digilink.jpg" alt="buliding"></td>
+    <td  style="border-style: hidden; colspan="6" rowspan="6"> <img src="https://i.postimg.cc/CLdjnyR5/digilink.jpg" alt="buliding"></td>
     <td  style="border-style: hidden;" colspan="11">
         Software Developer
     </td>
