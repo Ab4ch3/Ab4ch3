@@ -103,12 +103,12 @@ more upcomings....
   <tr>
     <td colspan="11">
       <ul>
-        <li>Proyecto Inventario</li>
+        <li>Proyecto DigInventario</li>
             <p>
-              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y participar en todas las fases del proceso de desarrollo de la aplicación, Este proyecto fue creado con la finalidad de                 llevar un orden y el inventario exacto de todos los articulos usados en la empresa, y de las futuras compras que se realizaran para ser ingresadas de una mejor manera al inventario, Algunas de mis                        principales responsabilidades incluyeron:
+              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y Administrador de Bases de datos Mysql, tambien pude participar en todas las fases del proceso de desarrollo de la aplicación web, Este proyecto fue creado con la finalidad de                 llevar un orden y el inventario exacto de todos los articulos usados en la empresa, y al igual de las futuras compras que se realizaran para ser ingresadas de una mejor manera al inventario, Algunas de mis                        principales responsabilidades incluyeron:
               <ul>
                 <li>Diseno y estructuracion de base de datos en Mysql </li>
-                <li>Generar vistas y StoreProcedure para algunos procesos Mysql</li>
+                <li>Generar vistas y Store Procedure para algunos procesos Mysql</li>
                 <li>Generar End-points para distintos modulos del sistema y la verificar que estuvieran operativos y testeado.</li> 
                 <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li>
                 <li>Administracion de la base de datos y de mantener la ingregridad de la data introducida </li>
@@ -116,13 +116,12 @@ more upcomings....
             </p>
         <li>Proyecto RouteManager</li>
               <p>
-              En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollarom las funcionalidades que hacian falta para poder tener un herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales responsabilidades incluyeron:
+              En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollaro las funcionalidades que hacian falta para poder tener un                    herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la                manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales                         responsabilidades incluyeron:
               <ul>
-                <li>Diseno y estructuracion de base de datos en Mysql </li>
-                <li>Generar vistas y StoreProcedure para algunos procesos Mysql</li>
-                <li>Generar End-points para distintos modulos del sistema y la verificar que estuvieran operativos y testeado.</li> 
-                <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li>
-                <li>Administracion de la base de datos y de mantener la ingregridad de la data introducida </li>
+                <li>Culminar y trabajar modulos que faltan en la parte de Back-end </li> 
+                <li>Culminar y trabajar modulos que Front-end</li> 
+                <li>Resolver bugs de funcionamientos y anadir cambios para un mejor funcionamiento de las operaciones que se tenian que realizar</li>
+                <li>Crear interfaz de manejo de rutas en router mikrotik , para cambiar de ISP a distintos departamentos y equipos</li>
               </ul>
             </p>
         <li>Elemento N</li>
