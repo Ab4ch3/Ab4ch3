@@ -126,13 +126,13 @@ more upcomings....
       </br>
         <li>Projects RouteManager</li>
               <p>
-              En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollaron las funcionalidades que faltaban para poder tener una                    herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la                manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales                         responsabilidades incluyeron:
+             In this project had been left with several unfinished modules then resumed, I worked as a full-stack web developer and developed the missing features to have an optimal tool to facilitate the task involving access to router and configuration changes, This project was created in order to manage networks and make the daily use of mikrotik router manipulation was a little more intuitive and clean in this project learned to work with MK router API for management from a web tool my main responsibilities included:
               <ul>
-                <li>Culminar y trabajar modulos que faltan en la parte de Back-end </li> 
-                <li>Culminar y trabajar modulos que Front-end</li> 
-                <li>Implementación de validaciones en JavaScript para formularios, mejorando la calidad de los datos y reduciendo el riesgo de errores.</li> 
-                <li>Resolver bugs de funcionamientos y anadir cambios para un mejor funcionamiento de las operaciones que se tenian que realizar</li>
-                <li>Crear interfaz de manejo de rutas en router mikrotik , para cambiar de ISP a distintos departamentos y equipos</li>
+                <li>Complete and work on missing Back-end modules </li> 
+                <li>Completion and work on Front-end modules</li> 
+                <li>Implementation of JavaScript validations for forms, improving data quality and reducing the risk of errors.</li> 
+                <li>Resolve bugs and add changes for a better functioning of the operations to be performed.</li>
+                <li>Create routing management interface on mikrotik router, to switch ISP to different departments and equipment.</li>
               </ul>
                   </br>
                  <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
