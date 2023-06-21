@@ -103,7 +103,8 @@ more upcomings....
   <tr>
     <td colspan="11">
       <ul>
-        <li>Elemento 1</li>
+        <li style="list-style-type: square;" >Proyecto Diginventario</li>
+            <p>asdasdasd</p>
         <li>Elemento 2</li>
         <li>Elemento N</li>
       </ul>
