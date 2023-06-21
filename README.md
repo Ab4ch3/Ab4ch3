@@ -105,10 +105,12 @@ more upcomings....
       <ul>
         <li>Proyecto Diginventario</li>
             <p>
-              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y participar en todas las fases del proceso de desarrollo de la aplicación, Algunas de mis principales responsabilidades incluyeron:
-              <ol>
-                <li>Diseno y creacion de bases de datos en Mysql </li>
-              </ol>
+              En este proyecto tuve la oportunidad de trabajar como desarrollador web full-stack y participar en todas las fases del proceso de desarrollo de la aplicación, Este proyecto fue creado con la finalidad de llevar un orden y el inventario exacto de todos                  los articulos usados en la empresa, Algunas de mis principales responsabilidades incluyeron:
+              <ul>
+                <li>Diseno y estructuracion de base de datos en Mysql </li>
+                <li>Generar CRUD para distintos modulos del sistema y la verificar que los end-points creados estuvieran operativos y testeado para ser usado </li> 
+                <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li> 
+              </ul>
             </p>
         <li>Elemento 2</li>
         <li>Elemento N</li>
