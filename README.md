@@ -120,7 +120,7 @@ more upcomings....
                 <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
                 <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
                 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
-                <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white">
             </p>
       </br>
         <li>Proyecto RouteManager</li>
@@ -140,6 +140,9 @@ more upcomings....
                 <img alt="Static Badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D">
                 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
                 <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white">
+                <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+        
             </p>
       </ul>
     </td>
