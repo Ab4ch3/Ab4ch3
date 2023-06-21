@@ -111,7 +111,7 @@ more upcomings....
                 <li>Generar vistas y Store Procedure para algunos procesos Mysql</li>
                 <li>API-Rest para distintos modulos del sistema.</li> 
                 <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li>
-                <li>Administracion de la base de datos y de mantener la ingregridad de la data introducida </li>
+                <li>Mantenimiento del código y resolución de errores,asegurando un funcionamiento sin problemas.</li>
               </ul>
             </p>
         <li>Proyecto RouteManager</li>
