@@ -109,7 +109,7 @@ more upcomings....
               <ul>
                 <li>Diseno y estructuracion de base de datos en Mysql </li>
                 <li>Generar vistas y Store Procedure para algunos procesos Mysql</li>
-                <li>Generar End-points para distintos modulos del sistema y la verificar que estuvieran operativos y testeado.</li> 
+                <li>API-Rest para distintos modulos del sistema.</li> 
                 <li>Crea interfaz de administracion de dispositivos , donde se harian todas las funciones basicas de un inventario </li>
                 <li>Administracion de la base de datos y de mantener la ingregridad de la data introducida </li>
               </ul>
@@ -124,7 +124,6 @@ more upcomings....
                 <li>Crear interfaz de manejo de rutas en router mikrotik , para cambiar de ISP a distintos departamentos y equipos</li>
               </ul>
             </p>
-        <li>Elemento N</li>
       </ul>
     </td>
   </tr>
