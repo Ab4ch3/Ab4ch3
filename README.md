@@ -103,7 +103,7 @@ more upcomings....
   <tr>
     <td colspan="11"> Projects Worked: </br>
       <ul>
-        <li>Proyecto DigInventario</li>
+        <li>Projects DigInventario</li>
             <p>
               In this project I had the opportunity to work as a full-stack web developer and Mysql Database Administrator, I was also able to participate in all phases of the development process of the web application, This project was created in order to keep an order and accurate inventory of all items used in the company, as well as future purchases to be made to be entered in a better way to the inventory, Some of my main responsibilities included:
               <ul>
@@ -124,7 +124,7 @@ more upcomings....
                 <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white">
             </p>
       </br>
-        <li>Proyecto RouteManager</li>
+        <li>Projects RouteManager</li>
               <p>
               En este proyecto se habia quedado con varios modulos sin terminar luego se retomo, trabaje como desarrollador web full-stack y se desarrollaron las funcionalidades que faltaban para poder tener una                    herrramienta optima para facilitar las tarea que implicaban accesos a router y cambios de configuraciones, Este proyecto fue creado con la finalidad de administrar las redes y hacer el uso cotidiano de la                manipulacion de router mikrotik fuera un poco mas intuitiva y limpia en este proyecto se aprendio a trabajar con API de router MK para su administracion desde una herramienta web  mis principales                         responsabilidades incluyeron:
               <ul>
