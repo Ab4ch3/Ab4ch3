@@ -9,7 +9,7 @@ My dream is to grow as a professional in the software development industry and t
 I am learning and diving into the web 3 for my own interest, broadening the horizon, open to freelancing. 
 
 ### 🔍 **Contact me:**
-[![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Abache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguelabache/)
 [![Github](https://img.shields.io/badge/Github-Ab4ch3-0077B5?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Ab4ch3)
 
