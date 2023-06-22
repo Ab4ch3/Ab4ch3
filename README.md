@@ -50,7 +50,8 @@ more upcomings....
 
 ## 👩‍💻 Languages:
 ![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/Spanish_Native-blue?style=for-the-badge)
+</br>
+![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=for-the-badge)
 
 ## 📊 Positions:
 <table>
