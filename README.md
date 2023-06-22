@@ -48,6 +48,9 @@ more upcomings....
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 👩‍💻 Languages:
+![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish_Native-blue?style=for-the-badge)
 
 ## 📊 Positions:
 <table>
