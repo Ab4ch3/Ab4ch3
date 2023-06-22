@@ -1,6 +1,6 @@
 # <img style="border: 2px solid #3A80EA; border-radius: 100px;" src="https://i.postimg.cc/L8DzK2h6/43658042.jpg" alt="foto perfil"> Hi my name is Miguel Abache 👋
 ##  Full-stack Developer
-#### About me
+#### **About me**
 
 I am a software developer with 5 years of experience.
 
@@ -8,9 +8,11 @@ My dream is to grow as a professional in the software development industry and t
 
 I am learning and diving into the web 3 for my own interest, broadening the horizon, open to freelancing. 
 
+### 🔍 **Contact me:**
+[![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Abache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](linkedin.com/in/miguel-abache-b926a312a)
 
-
-## ⚒️ My Tech Stack:
+## ⚒️ **My Tech Stack:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
