@@ -10,7 +10,7 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 
 ### 🔍 **Contact me:**
 [![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Abache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](linkedin.com/in/miguel-abache-b926a312a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Abache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/avendaosander)
 
 ## ⚒️ **My Tech Stack:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
