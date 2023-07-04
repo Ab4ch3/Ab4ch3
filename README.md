@@ -85,17 +85,6 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11">Skills: </br>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Assertive_communication-green">
-      <img alt="Static Badge" src="https://img.shields.io/badge/TeamWork-green">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Competitive-red">
-      </br>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Problem_solving-blue">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Asset_Management-blue">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Fast_learning-blue">
-    </td>
-  </tr>
-  <tr>
     <td colspan="11">Stack: </br>
       <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
       <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
