@@ -2,11 +2,13 @@
 ##  Full-stack Developer
 ### 🔍 **About me**
 
-I am a software developer with 5 years of experience.
+Hi, I'm Miguel Abache, I'm 31 years old, and I'm a full stack developer with 5 years of experience.
 
-My dream is to grow as a professional in the software development industry and to be able to make a living from what I am passionate about.
+- I am a self-taught and very creative person. 
+- I'm looking to learn and improve myself day by day.
+- I like to work with any part of the code because I want to give the best for the users who visit my projects.
 
-I am learning and diving into the web 3 for my own interest, broadening the horizon, open to freelancing. 
+I am learning and diving into the web 3 for my own interest, broadening the horizon, **Open to Colaborations**. 
 
 ### 🔍 **Contact me:**
 [![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
@@ -60,8 +62,8 @@ more upcomings....
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ## 👩‍💻 Languages:
-![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=flat)
+![English](https://img.shields.io/badge/English_B2-blue?style=flat)
 
 ## 📊 Positions:
 <table>
