@@ -50,9 +50,8 @@ more upcomings....
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 👩‍💻 Languages:
-![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
-</br>
 ![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=for-the-badge)
+![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
 
 ## 📊 Positions:
 <table>
