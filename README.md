@@ -47,14 +47,13 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 more upcomings....
 
 ## 👩‍💻 **Skills:**
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-<img alt="Static Badge" src="https://img.shields.io/badge/Assertive_communication-green">
-<img alt="Static Badge" src="https://img.shields.io/badge/Assertive_communication-green">
-<img alt="Static Badge" src="https://img.shields.io/badge/TeamWork-green">
-<img alt="Static Badge" src="https://img.shields.io/badge/Competitive-red">
-<img alt="Static Badge" src="https://img.shields.io/badge/Problem_solving-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Asset_Management-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Fast_learning-blue">
+![Static Badge](https://img.shields.io/badge/Assertive_communication-test?style=flat)
+![Static Badge](https://img.shields.io/badge/Team_Work-test?style=flat)
+![Static Badge](https://img.shields.io/badge/Competitive-red?style=flat)
+![Static Badge](https://img.shields.io/badge/Problem_solving-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Asset_Management-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Fast_learning-blue?style=flat)
+
 
 ## 👩‍💻 **Learning:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
