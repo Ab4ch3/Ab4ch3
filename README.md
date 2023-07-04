@@ -46,7 +46,8 @@ I am learning and diving into the web 3 for my own interest, broadening the hori
 </br>
 more upcomings....
 
-## 👩‍💻 Skills:
+## 👩‍💻 **Skills:**
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 <img alt="Static Badge" src="https://img.shields.io/badge/Assertive_communication-green">
 <img alt="Static Badge" src="https://img.shields.io/badge/Assertive_communication-green">
 <img alt="Static Badge" src="https://img.shields.io/badge/TeamWork-green">
@@ -55,7 +56,7 @@ more upcomings....
 <img alt="Static Badge" src="https://img.shields.io/badge/Asset_Management-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Fast_learning-blue">
 
-## 👩‍💻 Learning:
+## 👩‍💻 **Learning:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
