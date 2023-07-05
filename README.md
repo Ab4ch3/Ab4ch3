@@ -114,7 +114,7 @@ more upcomings....
               <ul>
                 <li>Analysis, design and implementation of a database system, ensuring the efficiency and security of data storage. </li>
                 <li>Generate views and Store Procedure for some Mysql processes.</li>
-                <li>API-Rest for different modules of the system. 
+                <li>Rest-API for different modules of the system. 
 .</li> 
                 <li>Create device management interface, where all the basic functions of an inventory would be done. </li>
                 <li>Implementation of user interactions and interface animations to improve user experience.</li>
