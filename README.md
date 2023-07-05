@@ -106,9 +106,9 @@ more upcomings....
     </td>
   </tr>
   <tr>
-    <td colspan="11"> Projects Worked: </br>
+    <td colspan="11"><b> Projects Worked:</b> </br>
       <ul>
-        <li>Projects DigInventario</li>
+        <li><b>Projects DigInventario</b></li>
             <p>
               In this project I had the opportunity to work as a full-stack web developer and Mysql Database Administrator, I was also able to participate in all phases of the development process of the web application, This project was created in order to keep an order and accurate inventory of all items used in the company, as well as future purchases to be made to be entered in a better way to the inventory, Some of my main responsibilities included:
               <ul>
@@ -129,7 +129,7 @@ more upcomings....
                 <img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white">
             </p>
       </br>
-        <li>Projects RouteManager</li>
+        <li><b>Projects RouteManager</b></li>
               <p>
              In this project had been left with several unfinished modules then resumed, I worked as a full-stack web developer and developed the missing features to have an optimal tool to facilitate the task involving access to router and configuration changes, This project was created in order to manage networks and make the daily use of mikrotik router manipulation was a little more intuitive and clean in this project learned to work with MK router API for management from a web tool my main responsibilities included:
               <ul>
