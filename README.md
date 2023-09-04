@@ -100,6 +100,7 @@ more upcomings....
       <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"> 
+      <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%47A248.svg?style=plastic&logo=mongodb&logoColor=white"> 
       </br>
       <img alt="Static Badge" src="https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101">
       <img alt="Static Badge" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
