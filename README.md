@@ -52,17 +52,17 @@ Hi, I'm Miguel Abache, I'm 31 years old, and I'm a full stack developer with 5 y
 more upcomings....
 
 ## 👩‍💻 **Skills:**
-![Static Badge](https://img.shields.io/badge/Assertive_communication-test?style=flat)
-![Static Badge](https://img.shields.io/badge/Team_Work-test?style=flat)
-![Static Badge](https://img.shields.io/badge/Competitive-red?style=flat)
-![Static Badge](https://img.shields.io/badge/Problem_solving-blue?style=flat)
-![Static Badge](https://img.shields.io/badge/Asset_Management-blue?style=flat)
-![Static Badge](https://img.shields.io/badge/Fast_learning-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Assertive_communication-test?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Team_Work-test?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Competitive-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Problem_solving-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Asset_Management-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Fast_learning-blue?style=for-the-badge)
 
 
 ## 👩‍💻 **Learning:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 👩‍💻 Languages:
 ![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=flat)
