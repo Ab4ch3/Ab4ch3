@@ -8,7 +8,7 @@ Hi, I'm Miguel Abache, I'm 31 years old, and I'm a full stack developer with 5 y
 - I'm looking to learn and improve myself day by day.
 - I like to work with any part of the code because I want to give the best for the users who visit my projects.
 
-I am learning and diving into the web 3 for my own interest, broadening the horizon, **Open to Colaborations**. 
+**Open to Colaborations**. 
 
 ### 🔍 **Contact me:**
 [![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
