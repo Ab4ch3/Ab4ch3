@@ -1,4 +1,4 @@
-# <img style="border: 2px solid #0077B5; border-radius: 100px;" src="https://i.postimg.cc/L8DzK2h6/43658042.jpg" alt="foto perfil"> Hello! I'm Miguel Abache 👋
+# <img style="border: 2px solid #0077B5; border-radius: 100px;" src="https://i.postimg.cc/L8DzK2h6/43658042.jpg" alt="foto perfil"> Hello! I'm Miguel Abache 
 ##  Full-stack Developer
 ### 🔍 **About me**
 
