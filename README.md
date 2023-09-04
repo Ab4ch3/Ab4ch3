@@ -65,8 +65,8 @@ more upcomings....
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 👩‍💻 Languages:
-![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=flat)
-![English](https://img.shields.io/badge/English_B2-blue?style=flat)
+![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=for-the-badge)
+![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
 
 ## 📊 Positions:
 <table>
