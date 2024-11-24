@@ -13,13 +13,13 @@
 
 <p align="left">My name is Miguel Abache and I'm a professional web developer with +5 years of experience in web application development and database administration. </p>
 
-<p align="left">✨ I'm currently working on my own <a href="https://www.w3schools.com">webpage</a>...<br>📚 I'm currently learning React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /><br>🎯 Goals: I'm looking to learn and improve myself day by day...<br>🎲 Fun fact: My Friends ...</p>
+<p align="left">✨ I'm currently working on my own <a href="https://www.w3schools.com">webpage</a>...<br>📚 I'm currently learning React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /><br>🎯 Goals: I'm looking to learn and improve myself day by day...<br>🎲 Fun fact: My Friends call me Abache...</p>
 
 ###
 
 **Open to Colaborations**.
 
-### 🔍 **Contact me:**
+### 🔍 Contact Me:
 
 <!-- [![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Abache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguelabache/)
@@ -38,9 +38,29 @@
   </a>
 </div>
 
-## ⚒️ **My Tech Stack:**
+## 💻 Currently working with:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+</div>
+
+## 💻 Tech Stack:
+
+<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -71,9 +91,63 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 </br>
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) -->
 
-more upcomings....
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  </br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
+  
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
+  
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  </br>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  
+  <img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="40" alt="sequelize logo"  />
+</div>
 
 ## 👩‍💻 **Skills:**
 
@@ -92,13 +166,9 @@ more upcomings....
 ## 👩‍💻 Languages:
 
 ![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
-
+![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
 
 ###
-
-<img src="https://raw.githubusercontent.com/Ab4ch3/Ab4ch3/output/snake.svg" alt="Snake animation" />
-
 
 ## 📊 Positions:
 
