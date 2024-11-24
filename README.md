@@ -1,22 +1,45 @@
-# <img style="border: 2px solid #0077B5; border-radius: 100px;" src="https://i.postimg.cc/L8DzK2h6/43658042.jpg" alt="foto perfil"> Hello! I'm Miguel Abache 
+<!-- # <img style="border: 2px solid #0077B5; border-radius: 100px;" src="https://i.postimg.cc/L8DzK2h6/43658042.jpg" alt="foto perfil"> Hello! I'm Miguel Abache
 ##  Full-stack Developer
-### 🔍 **About me**
+### 🔍 **About me** -->
+<div >
+  <img height="200" width="900" src="https://i.ibb.co/XDM9wTy/Black-Minimal-Motivation-Quote-Linked-In-Banner.png"  />
+</div>
 
-Hi, I'm Miguel Abache, I'm 31 years old, and I'm a full stack developer with 5 years of experience.
+###
 
-- I am a self-taught and very creative person. 
-- I'm looking to learn and improve myself day by day.
-- I like to work with any part of the code because I want to give the best for the users who visit my projects.
+<h1 align="left">Hello World!, I'm Miguel 👋 What's up?</h1>
 
-**Open to Colaborations**. 
+###
+
+<p align="left">My name is Miguel Abache and I'm a professional web developer with +5 years of experience in web application development and database administration. </p>
+
+<p align="left">✨ I'm currently working on my own <a href="https://www.w3schools.com">webpage</a>...<br>📚 I'm currently learning React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /><br>🎯 Goals: I'm looking to learn and improve myself day by day...<br>🎲 Fun fact: My Friends ...</p>
+
+###
+
+**Open to Colaborations**.
 
 ### 🔍 **Contact me:**
-[![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
+
+<!-- [![Email](https://img.shields.io/badge/Gmail-miiguel.abache@gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miiguel.abache@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Abache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguelabache/)
 [![Github](https://img.shields.io/badge/Github-Ab4ch3-0077B5?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Ab4ch3)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-+58_4148421867-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white&labelColor=101010)](https://api.whatsapp.com/send?phone=584148421867)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-+58_4148421867-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white&labelColor=101010)](https://api.whatsapp.com/send?phone=584148421867) -->
+
+<div align="left">
+  <a href="mailto:miiguel.abache@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=584148421867" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/miguelabache/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ## ⚒️ **My Tech Stack:**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,6 +76,7 @@ Hi, I'm Miguel Abache, I'm 31 years old, and I'm a full stack developer with 5 y
 more upcomings....
 
 ## 👩‍💻 **Skills:**
+
 ![Static Badge](https://img.shields.io/badge/Assertive_communication-test?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Team_Work-test?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Competitive-red?style=for-the-badge)
@@ -60,16 +84,24 @@ more upcomings....
 ![Static Badge](https://img.shields.io/badge/Asset_Management-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Fast_learning-blue?style=for-the-badge)
 
-
 ## 👩‍💻 **Learning:**
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 👩‍💻 Languages:
+
 ![Spanish](https://img.shields.io/badge/Spanish_Native-green?style=for-the-badge)
 ![English](https://img.shields.io/badge/English_B2-blue?style=for-the-badge)
 
+
+###
+
+<img src="https://raw.githubusercontent.com/Ab4ch3/Ab4ch3/output/snake.svg" alt="Snake animation" />
+
+
 ## 📊 Positions:
+
 <table>
 <tbody >
   <tr>
