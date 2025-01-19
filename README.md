@@ -13,7 +13,7 @@
 
 <p align="left">My name is Miguel Abache and I'm a professional web developer with +5 years of experience in web application development and database administration. </p>
 
-<p align="left">✨ I'm currently working on my own <a href="https://www.w3schools.com">webpage</a>...<br>📚 I'm currently learning React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /><br>🎯 Goals: I'm looking to learn and improve myself day by day...<br>🎲 Fun fact: My Friends call me Abache...</p>
+<p align="left">✨ I'm currently working on my own <a href="https://www.linkedin.com/in/miguelabache/">webpage</a>...<br>📚 I'm currently learning React   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /><br>🎯 Goals: I'm looking to learn and improve myself day by day...<br>🎲 Fun fact: My Friends call me Abache...</p>
 
 ###
 
